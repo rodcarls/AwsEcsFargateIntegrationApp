@@ -1,0 +1,11 @@
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AwsEcsTestApp.exe.config
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AwsEcsTestApp.exe
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AwsEcsTestApp.pdb
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AWSSDK.Core.dll
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AWSSDK.Core.pdb
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AWSSDK.ECS.dll
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\bin\Debug\AWSSDK.ECS.pdb
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\obj\Debug\AwsEcsTestApp.csprojAssemblyReference.cache
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\obj\Debug\AwsEcsTestApp.csproj.CopyComplete
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\obj\Debug\AwsEcsTestApp.exe
+D:\Stackify Files\AppTests\AwsEcsTestApp\AwsEcsTestApp\obj\Debug\AwsEcsTestApp.pdb

@@ -1,0 +1,245 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "AWSSDK.Core/3.3.104.31": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.ECS/3.3.114.10": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.104.31, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "AWSSDK.Core/3.3.104.31": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.ECS/3.3.114.10": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.104.31, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "AWSSDK.Core/3.3.104.31": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.ECS/3.3.114.10": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.104.31, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "AWSSDK.Core/3.3.104.31": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.ECS/3.3.114.10": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.104.31, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.ECS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSSDK.Core/3.3.104.31": {
+      "sha512": "9oTQ5aEp4vT04ErniKiz2QLOOuewy59qhdrxb2kEMTcZjsu+Zic9C00j++fvpLB6RVX0xgiw8jMg3f8VtRN7gw==",
+      "type": "package",
+      "path": "awssdk.core/3.3.104.31",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.3.104.31.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/MonoAndroid10/AWSSDK.Core.XML",
+        "lib/MonoAndroid10/AWSSDK.Core.dll",
+        "lib/MonoAndroid10/AWSSDK.Core.pdb",
+        "lib/MonoTouch10/AWSSDK.Core.XML",
+        "lib/MonoTouch10/AWSSDK.Core.dll",
+        "lib/Xamarin.Mac20/AWSSDK.Core.XML",
+        "lib/Xamarin.Mac20/AWSSDK.Core.dll",
+        "lib/Xamarin.iOS10/AWSSDK.Core.XML",
+        "lib/Xamarin.iOS10/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netstandard1.3/AWSSDK.Core.dll",
+        "lib/netstandard1.3/AWSSDK.Core.pdb",
+        "lib/netstandard1.3/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.pdb",
+        "lib/uap/AWSSDK.Core.XML",
+        "lib/uap/AWSSDK.Core.dll",
+        "lib/uap/AWSSDK.Core.pdb",
+        "lib/win8/AWSSDK.Core.XML",
+        "lib/win8/AWSSDK.Core.dll",
+        "lib/win8/AWSSDK.Core.pdb",
+        "lib/wp8/AWSSDK.Core.XML",
+        "lib/wp8/AWSSDK.Core.dll",
+        "lib/wp8/AWSSDK.Core.pdb",
+        "lib/wpa81/AWSSDK.Core.XML",
+        "lib/wpa81/AWSSDK.Core.dll",
+        "lib/wpa81/AWSSDK.Core.pdb",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.ECS/3.3.114.10": {
+      "sha512": "2fs4Mh0QG8mO02UY3YY+89ihjlhkcvD95FiVj4Jiqxttk3ONBoTNqAvfgSRMSLZ/VCSG/WbTpLrE0YPVWxrCvw==",
+      "type": "package",
+      "path": "awssdk.ecs/3.3.114.10",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.ECS.CodeAnalysis.dll",
+        "awssdk.ecs.3.3.114.10.nupkg.sha512",
+        "awssdk.ecs.nuspec",
+        "lib/MonoAndroid10/AWSSDK.ECS.XML",
+        "lib/MonoAndroid10/AWSSDK.ECS.dll",
+        "lib/MonoTouch10/AWSSDK.ECS.XML",
+        "lib/MonoTouch10/AWSSDK.ECS.dll",
+        "lib/MonoTouch10/AWSSDK.ECS.pdb",
+        "lib/Xamarin.iOS10/AWSSDK.ECS.XML",
+        "lib/Xamarin.iOS10/AWSSDK.ECS.dll",
+        "lib/net35/AWSSDK.ECS.dll",
+        "lib/net35/AWSSDK.ECS.pdb",
+        "lib/net35/AWSSDK.ECS.xml",
+        "lib/net45/AWSSDK.ECS.dll",
+        "lib/net45/AWSSDK.ECS.pdb",
+        "lib/net45/AWSSDK.ECS.xml",
+        "lib/netstandard1.3/AWSSDK.ECS.dll",
+        "lib/netstandard1.3/AWSSDK.ECS.pdb",
+        "lib/netstandard1.3/AWSSDK.ECS.xml",
+        "lib/netstandard2.0/AWSSDK.ECS.dll",
+        "lib/netstandard2.0/AWSSDK.ECS.pdb",
+        "lib/netstandard2.0/AWSSDK.ECS.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.ECS.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.ECS.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.ECS.pdb",
+        "lib/uap/AWSSDK.ECS.XML",
+        "lib/uap/AWSSDK.ECS.dll",
+        "lib/uap/AWSSDK.ECS.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "AWSSDK.ECS >= 3.3.114.10"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\GigaBook\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Stackify Files\\AppTests\\AwsEcsTestApp\\AwsEcsTestApp\\AwsEcsTestApp.csproj",
+      "projectName": "AwsEcsTestApp",
+      "projectPath": "D:\\Stackify Files\\AppTests\\AwsEcsTestApp\\AwsEcsTestApp\\AwsEcsTestApp.csproj",
+      "packagesPath": "C:\\Users\\GigaBook\\.nuget\\packages\\",
+      "outputPath": "D:\\Stackify Files\\AppTests\\AwsEcsTestApp\\AwsEcsTestApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\GigaBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "AWSSDK.ECS": {
+            "target": "Package",
+            "version": "[3.3.114.10, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
